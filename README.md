@@ -1,4 +1,5 @@
 # DevRev MCP server
+[![smithery badge](https://smithery.ai/badge/devrev-mcp)](https://smithery.ai/server/devrev-mcp)
 
 ## Overview
 
@@ -61,3 +62,4 @@ On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
   }
   ```
 </details>
+
